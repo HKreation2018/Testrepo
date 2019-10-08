@@ -7,7 +7,7 @@
 	<artifactId>muletest</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule-application</packaging>
-
+    
 	<name>muletest</name>
 
     <properties>
@@ -16,6 +16,7 @@
 
 		<app.runtime>4.2.0</app.runtime>
 		<mule.maven.plugin.version>3.2.7</mule.maven.plugin.version>
+		<mule.tools.version>1.2</mule.tools.version>
 	</properties>
 
 	<build>

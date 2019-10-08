@@ -116,7 +116,7 @@
 	<repository>
       <id>Repository</id>
       <name>Corporate Repository</name>
-      <url>https://maven.anypoint.mulesoft.com/api/v2/organizations/ORGANIZATION_ID/maven</url>
+      <url>https://maven.anypoint.mulesoft.com/api/v2/organizations/718d92ef-fdeb-4648-9692-d009ba895a3d/maven</url>
       <layout>default</layout>
     </repository>
 	</repositories>
@@ -124,7 +124,7 @@
     <repository>
       <id>Repository</id>
       <name>Corporate Repository</name>
-      <url>https://maven.anypoint.mulesoft.com/api/v2/organizations/Accenture/maven</url>
+      <url>https://maven.anypoint.mulesoft.com/api/v2/organizations/718d92ef-fdeb-4648-9692-d009ba895a3d/maven</url>
       <layout>default</layout>
     </repository>
   </distributionManagement>

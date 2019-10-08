@@ -6,7 +6,6 @@
 	<groupId>com.mycompany</groupId>
 	<artifactId>muletest</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <packaging>muletest</packaging>
     
 	<name>muletest</name>
 
